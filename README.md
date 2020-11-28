@@ -7,4 +7,3 @@
 - [Apostila Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 - [Playlist Java Gafanhoto](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-https://img.shields.io/github/all-contributors/Ge%C3%ADslia/made%20by?style=flat-square
