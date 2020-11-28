@@ -9,7 +9,7 @@
 
     ```JAVA
     public class HelloWorld {
-        
+
     public static void main(String[] args) {
         System.out.println("Olá, Mundo!");
         }
@@ -19,4 +19,3 @@
     - [x] Configurar algum ambiente de desenvolvimento java : Eclipse, VSCode, Netbeans ou Intellij
     - [x] Instalar o git
     - [x] Instalar o VSCODE com o plugin Live Share
-
