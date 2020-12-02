@@ -1,4 +1,4 @@
-# Relatório dos estudos da semana 
+# Relatório dos Estudos da Semana
 
 ## 1. O que fiz?
 ´´´
