@@ -1,3 +1,11 @@
+# S02E01 - Java Inicio
+-Classwork
+- [ ]Entender a estrutura básica do código java
+- [ ]Construtores, atributos, métodos, main
+-Homework
+- [ ]Estudar e melhorar o código do Calango ou tentar criar seu próprio projeto.
+- [ ]Você pode colocar seus códigos na pasta Projeto 02 Java do seu git
+
 # S02E01 - Java Exercício
 - Lecture
 - [ ]Ler o capítulo 4 da apostila da Caelum.
