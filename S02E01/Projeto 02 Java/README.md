@@ -1,4 +1,5 @@
-# Relatório dos Estudos da Semana
+# Relatório dos Estudos da Semana 
+# S02E01
 
 ## 1. O que fiz?
 ´´´
