@@ -1,6 +1,6 @@
 # S01E01 - Negociações 
 
-## Tasks
+## Tasks :clipboard:
 
 - Lecture [01 Ponto Extra]
     - [x] Leia a apostila da Caelum. Capítulo 1, 2 e 3.
@@ -17,5 +17,8 @@
     ```
 - Homework
     - [x] Configurar algum ambiente de desenvolvimento java : Eclipse, VSCode, Netbeans ou Intellij
+    ```
+    Ambiente escolhido: Eclipse.
+    ```
     - [x] Instalar o git
     - [x] Instalar o VSCODE com o plugin Live Share

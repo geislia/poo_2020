@@ -1,6 +1,6 @@
-# S01E02 - Git
+# S01E02 - Git 
 
-- Homework [03 Pontos]
+- Homework [03 Pontos] :computer:
  - [x] Colocar seu email e repositório git na Planilha de Notas.
  - [x] Entrar no Discord e mudar seu nickname para seu nome.
  - [x] Seguir o tutorial do git na pasta S01E01 e criar seu repositório.
