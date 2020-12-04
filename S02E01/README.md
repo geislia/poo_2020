@@ -19,7 +19,7 @@ Opção 3: Continuar melhorando seu projeto do Calango adicionando novos comport
 - [ ] Colocar seus códigos na pasta Projeto 02 Java.
 - [ ] Fazer um relatório dos seus estudos da semana no arquivo Readme.md dessa pasta.
 
-##Relatório dos Estudos da Semana :books:
+## Relatório dos Estudos da Semana :books:
 
 :pencil2: O que fiz?
  ```
