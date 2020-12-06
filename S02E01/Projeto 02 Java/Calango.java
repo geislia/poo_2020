@@ -19,9 +19,9 @@ public class Calango {
         bucho += qtd;
         if(bucho > maxBucho){
             bucho = maxBucho;
-            System.out.println("Comi até ficar saciado");
+            System.out.println("Comi atï¿½ ficar saciado");
         }else{
-            System.out.println("Tô cheio");
+            System.out.println("Tï¿½ cheio");
         }
     }
 
@@ -44,7 +44,7 @@ public class Calango {
             nPatas -= 1;
             System.out.println("Ouch! Perdi uma pata");
         }else{
-            System.out.println("Já virei cobra!!");
+            System.out.println("Jï¿½ virei cobra!!");
         }
     }
 
