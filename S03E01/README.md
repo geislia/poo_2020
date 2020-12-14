@@ -14,7 +14,7 @@
 
 :pencil2: O que fiz?
 
-[Lecture](https://github.com/geislia/poo_2020/tree/main/S03E01#s03e01---java-v%C3%A1rias-classes)
+[Lecture](https://github.com/geislia/poo_2020/tree/main/S03E01#s03e01---java-v%C3%A1rias-classes) e coloquei os códigos na nova pasta criada.
 
 :information_desk_person: Com quem fiz?
 ```  
