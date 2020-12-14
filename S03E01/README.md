@@ -9,8 +9,8 @@
 - Requisitos:
     - Mínimo de 2 classes, construtores, toStrings, 3 atributos, 4 métodos, main interativa.
     - Deve existir uma relação de Agregação (uma classe conter a outra).
-- [ ] Colocar seus códigos na pasta Projeto 03 Cofre.
-- [ ] Fazer um relatório dos seus estudos da semana no arquivo Readme.md dessa pasta.
+- [x] Colocar seus códigos na pasta Projeto 03 Cofre.
+- [x] Fazer um relatório dos seus estudos da semana no arquivo Readme.md dessa pasta.
 
 :pencil2: O que fiz?
 
