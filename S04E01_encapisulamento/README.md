@@ -1,7 +1,7 @@
 # S04E01 - Encapsulamento - Tamagotchi
 - Read
 - [x] Caelum: Capítulo 5
-Goal
+- Goal
 - [x]Aprender sobre: Encapsumento, modificadores de acesso, gets e sets e métodos static
 Construir o modelo do Pokemon LINK
 - Home
