@@ -12,21 +12,21 @@
 Colocar na pasta Projeto 05 Contato e fazer o relatório
 
 :pencil2: O que fiz?
-
+Fiz toda a atividade relacionada ao estudo de Array list, leitura da apostila e do conteúdo que foi colocado, comecei a fazer o projeto, mas não terminei ainda.
 
 :information_desk_person: Com quem fiz?
 ```  
-
+Individual. 
 ```
 :computer: Como fiz?
 ``` 
-
+Leitura, vídeos.
 ``` 
 :mag_right: O que aprendeu e o que tem dificuldade?
 ``` 
-
+Aprendi como funciona o ArrayList na teória, mas na prática ainda preciso melhorar mais.
 ``` 
 :clock10: Quanto tempo levou?
 ``` 
-
+1 dia. 
 ``` 
